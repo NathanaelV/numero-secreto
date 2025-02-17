@@ -64,3 +64,7 @@ function reiniciarJogo() {
     exibirMensagemInicial();
     document.getElementById('reiniciar').setAttribute('disabled', true)
 }
+
+
+
+// Remova esse comentário
